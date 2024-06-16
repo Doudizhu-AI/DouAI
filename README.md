@@ -12,7 +12,7 @@
 ## 算法介绍
 * 基于 [Douzero](https://github.com/kwai/DouZero) 修改  
 * dmc算法对于二人斗地主更加适用  
-* 效果：中级场胜率49%，专家场胜率47%
+* 效果：高级场胜率49%，专家场胜率47%
 
 ## 接口介绍
 * 叫地主接口: 决策每一次是否要抢地主  
@@ -20,10 +20,13 @@
 * 让牌接口（正在开发）: 返回是否让牌
 
 ## 联系方式：
-体验和使用接口，请联系：  
+
+开源版本正在途中...
+
+体验和使用最新版接口，请联系：  
 * qq：  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1601744182  
 * e-mail: &nbsp;&nbsp;&nbsp;  doubledouzero@gmail.com
-* 电报：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CustomerService0606
+* TG：  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CustomerService0606
 
 
 
