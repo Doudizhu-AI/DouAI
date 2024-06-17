@@ -1,5 +1,7 @@
 # 二人斗地主算法
 
+**在线试玩**: [DoubleDouzero](http://47.116.37.81:8080/)
+
 ## 二人斗地主算法规则介绍
 #### 发牌  
 牌库中去除3，4，每人发17张牌，留3张底牌，其余9张作为废牌。确定地主后底牌归地主所有。
@@ -26,7 +28,7 @@
 体验和使用最新版接口，请联系：  
 * qq：  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1601744182  
 * e-mail: &nbsp;&nbsp;&nbsp;  doubledouzero@gmail.com
-* TG：  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CustomerService0606
+* TG：  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CustomerService0606
 
 
 
